@@ -38,4 +38,4 @@ Birds live worldwide and range in size from the 5.5 cm (2.2 in) bee hummingbird 
 
 - Data [Preprocessing](notebooks/01_CNN_DailyMail_Preprocess.ipynb): This notebook downloads the CNN/Dailymail dataset and preprocesses them. Note: This notebook takes a couple hours to run, the sort of thing you run and come back later.
 - Model Training [[Pytorch](notebooks/02_SentenceBert_for_Extractive_Text_Summarization_Model_Pytorch.ipynb), Tensorflow]: Train an extractive summarization Model 
-- Inference [[Pytorch](notebooks/03_Extractive_Summarization_Inference.ipynb)]: Run inference 
+- Inference [[Pytorch](notebooks/03_Extractive_Summarization_Inference.ipynb)]: Run inference using the extractive model trained in the previous notebook, compare with abstractive summaries created with pretrained models from the HuggingFace library.
