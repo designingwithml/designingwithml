@@ -11,6 +11,7 @@ While the machine learning life cycle is broad (problem framing, data collection
 
 ## Table of Content
 
+This repo is organized in folders where each folder corresponds to specific topics.
 
 | Topic      | Description | Solution Architecture    |
 | :---        |    :----   |          :--- |
