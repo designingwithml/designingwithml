@@ -9,8 +9,10 @@ While the machine learning life cycle is broad (problem framing, data collection
 - Model Training and Evaluation: Some python code to implement all the steps above
 
 
-| Topic      | Description | Format    |
-| :---        |    :----:   |          ---: |
+
+
+| Topic      | Description | Solution Architecture    |
+| :---        |    :----   |          :--- |
 | [Extractive summarization with BERT](/extractivesummarization)     | In extractive summarization, the task is to extract subsets (sentences) from a document that represent a valid summary. In this repo, we treat extractive summarization as a classification problem where we predict a class for each sentence in a document (i.e. belonging to the summary or not). We can then assemble a summary based on these scores e.g. the highest scoring sentences reorded by some pertinent criteria (e.g. order of appearance in document, grammatical correctness, etc).       | ![alt text](/extractivesummarization/images/inference.png) [Notebooks](/extractivesummarization/notebooks)   |
 | -   | -        | -      |
 
