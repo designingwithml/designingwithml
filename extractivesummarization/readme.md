@@ -2,6 +2,8 @@
 
 ![alt text](images/inference.png)
 
+> This repo is part of work done while at Cloudera Fast Forward labs. Check out the full project [here](https://github.com/fastforwardlabs/summarize). 
+
 In extractive summarization, the task is to extract subsets (sentences) from a document that represent a valid summary. 
 In this repo, we treat extractive summarization as a classification problem where we predict a class for each sentence in a document (i.e. belonging to the summary or not). We can then _assemble_ a summary based on these scores e.g. the highest scoring sentences reorded by some pertinent criteria (e.g. order of appearance in document, grammatical correctness, etc).
 
