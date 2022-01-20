@@ -1,4 +1,4 @@
-# Awesome ML Concepts with Code
+# ML Concepts with Code
 
 Machine learning can be harnessed in solving many real world problems.  
 While the machine learning life cycle is broad (problem framing, data collection, model training, evaluation, deployment, monitoring), this repository will focus on a subset of these steps:
