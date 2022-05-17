@@ -1,4 +1,9 @@
-# ML Concepts with Code
+# Designining wiht ML  
+
+Collection of code samples that illustrate how to design solutions using machine learning models.
+
+
+## Concepts with Code
 
 Machine learning can be harnessed in solving many real world problems.  
 While the machine learning life cycle is broad (problem framing, data collection, model training, evaluation, deployment, monitoring), this repository will focus on a subset of these steps:
@@ -6,7 +11,8 @@ While the machine learning life cycle is broad (problem framing, data collection
 - Problem Framing: Frame problems as as machine learning tasks (e.g. classification, regression, representation learning, metric learning etc) 
 - Data Requirement Framing: Define a set of input (features) and target (label) variables required to address the problem. Curate this data where available or setup collection infrastructure as needed.
 - Evaluation Metric Definition: Define a set of evaluation metrics that ideally generalize beyond the ML task and translate to value for the underlying business problem. 
-- Model Training and Evaluation: Some python code to implement all the steps above
+- Model Training and Evaluation: Some python code to implement all the steps above 
+- End user experience: How do we build rich web/mobile interfaces that support end users.
 
 
 ## Table of Content
