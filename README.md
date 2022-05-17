@@ -1,4 +1,4 @@
-# Designining wiht ML  
+# Designining with ML  
 
 Collection of code samples that illustrate how to design solutions using machine learning models.
 
