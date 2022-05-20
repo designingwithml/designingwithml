@@ -13,4 +13,4 @@ assignees: victordibia
 [ ] Spelling/Grammar errors
 
 ## Error Description 
-[ ] < Enter description of the error >
+< Enter description of the error >
