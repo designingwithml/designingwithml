@@ -1,14 +1,11 @@
 ---
 name: Book Errata
 about: Provide feedback on errors found in the designingwithml book
-title: "[Book Errata] Issue with Chapter X"
+title: "[Book Errata] Issue with Chapter <enter chapter name>"
 labels: ''
 assignees: victordibia
 
 ---
-
-## Chapter Name 
-[ ] Description of the error  
 
 ## Error Type
 [ ] Code 
@@ -16,4 +13,4 @@ assignees: victordibia
 [ ] Spelling/Grammar errors
 
 ## Error Description 
-[ ] Description of the error
+< Enter description of the error >
